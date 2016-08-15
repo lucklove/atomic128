@@ -1,0 +1,6 @@
+[package]
+name = "atomic128"
+version = "0.1.0"
+authors = ["Jos <gnu.crazier@gmail.com>"]
+
+[dependencies]
